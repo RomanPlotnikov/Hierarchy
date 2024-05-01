@@ -1,0 +1,18 @@
+{
+  "name": "com.plotnikoff.hierarchy",
+  "displayName": "Hierarchy",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Unity hierarchy improvement",
+  "keywords": [
+    "Tools"
+  ],
+  "license": "MIT",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  },
+  "_fingerprint": "47629c3de41e1293c6ad8ec8e17b4c5b46092cf9"
+}
